@@ -1,0 +1,19 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1
+00:00:01.000 --> 00:00:03.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+The subtitle 6 second later may crash
+
+2
+00:00:04.000 --> 00:00:06.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+The subtitle 3 second later may crash
+
+2
+00:00:07.000 --> 00:00:09.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+Am I crashed?<rt></rt>
+
+3
+00:00:10.000 --> 00:00:12.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+Maybe not?
+
