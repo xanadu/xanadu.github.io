@@ -1,0 +1,43 @@
+X-TIMESTAMP-MAP=MPEGTS:0,LOCAL:00:00:00.000
+
+STYLE
+::cue(.tcyellowItalicitms2) { color:yellow;font-style:italic;text-combine-upright:2 }
+::cue(.italic) { font-style:italic }
+::cue(.tcitalicitms2) { font-style:italic;text-combine-upright:2 }
+::cue(.tc) { text-combine-upright:all }
+::cue(.yellowItalic) { color:yellow;font-style:italic }
+::cue(.ruby04) { font-style:italic;ruby-align:space-between;ruby-position:under }
+::cue(.ruby03) { ruby-align:space-between;ruby-position:over }
+::cue(.ruby02) { ruby-align:center;ruby-position:under }
+::cue(.ruby01) { font-style:italic;ruby-align:space-between;ruby-position:over }
+
+1
+00:00:01.177 --> 00:00:04.681 align:start line:85%,start position:50%,vertical:rl
+<c.italic>我が国は10年以内に
+人間を月に送り––</c>
+
+2
+00:00:04.806 --> 00:00:10.562 align:start line:85%,start position:50%,middle
+<c.yellowItalic>奴は</c><c.tcyellowItalicitms2>72</c><c.yellowItalic>年の大統領選に
+出るに違いない</c>
+
+3
+00:00:11.813 --> 00:00:15.067 align:start line:0%,start position:0% vertical:rl
+<c.italic>１９６９年６月</c><c.tcitalicitms2>26</c><c.italic>日
+メキシコ
+パラス・デ・ラ・フエンテ</c>
+
+4
+00:00:15.192 --> 00:00:19.613 align:start line:85%,start position:50%,middle
+<c.italic>アポロ11号の情報を</c>
+<c.ruby04><ruby>固唾<rt>かたず</rt></ruby></c><c.italic>をのんで待っています</c>
+
+5
+00:00:20.739 --> 00:00:24.743 align:start line:85%,start position:50%,middle
+<c.ruby03><ruby>補助誘導システム<rt>ＡＧＳ</rt></ruby></c>が
+秒速0.6メートル速い
+
+6
+00:00:25.869 --> 00:00:29.581 align:start line:85%,start position:50%,middle
+報道官は“大統領は
+<c.ruby02><ruby>銀<rt>・</rt></ruby></c><c.ruby02><ruby>メ<rt>・</rt></ruby></c><c.ruby02><ruby>ダ<rt>・</rt></ruby></c><c.ruby02><ruby>リ<rt>・</rt></ruby></c><c.ruby02><ruby>ス<rt>・</rt></ruby></c><c.ruby02><ruby>ト<rt>・</rt></ruby></c>と話さない”と
