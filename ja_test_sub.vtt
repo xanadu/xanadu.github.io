@@ -352,8 +352,8 @@ vertical</c.bg_transparent></c.japanese>
 75
 00:00:59.000 --> 00:01:00.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
 <c.japanese><c.bg_transparent> </c.bg_transparent></c.japanese><c.japanese><c.bg_transparent>全角一桁の数字　１</c.bg_transparent></c.japanese>
-<c.japanese><c.bg_transparent> </c.bg_transparent></c.japanese><c.japanese><c.bg_transparent>二桁の数字 </c.bg_transparent></c.japanese><c.japanese><c.bg_transparent><c.text_combine>12</c.text_combine></c.bg_transparent></c.japanese>
-<c.japanese><c.bg_transparent> </c.bg_transparent></c.japanese><c.japanese><c.bg_transparent>三桁の数字　３４５ </c.bg_transparent></c.japanese>
+<c.japanese><c.bg_transparent> </c.bg_transparent></c.japanese><c.japanese><c.bg_transparent>二桁の数字 </c.bg_transparent></c.japanese><c.text_combine>12</c.text_combine>
+<c.japanese><c.bg_transparent> </c.bg_transparent></c.japanese><c.japanese><c.bg_transparent>三桁の数字　<c.text_combine>３４</c.text_combine>５ </c.bg_transparent></c.japanese>
 
 76
 00:01:00.000 --> 00:01:01.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
