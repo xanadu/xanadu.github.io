@@ -30,9 +30,8 @@ horizontal</c.bg_transparent></c.japanese>
 <c.japanese><c.bg_transparent>ＢＢＣ ＣＩＡ ＵＳＡ</c.bg_transparent></c.japanese>
 
 5
-00:00:14.000 --> 00:00:15.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.japanese><c.bg_transparent>I.2 Acronyms
-vertical</c.bg_transparent></c.japanese>
+00:00:14.000 --> 00:00:15.000 align:start line:100%,end position:0% vertical:rl
+<c.italic>〝打ち上げまで</c><c.tcitalicitms2>14</c><c.italic>日〟</c>
 
 6
 00:00:14.000 --> 00:00:15.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
