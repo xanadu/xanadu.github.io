@@ -3,6 +3,7 @@ WEBVTT
 STYLE
 ::cue(.styledotitalicdotrybefore) { ruby-position:over }
 ::cue(.styledotrybefore) { ruby-position:over }
+::cue(.styledotitalicdottcitms2) { text-combine-upright:digits 2 }
 ::cue(.styledotitalicdottcitms2) { text-combine-upright:2 }
 
 1
