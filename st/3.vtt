@@ -3,8 +3,7 @@ WEBVTT
 STYLE
 ::cue(.styledotitalicdotrybefore) { ruby-position:over }
 ::cue(.styledotrybefore) { ruby-position:over }
-::cue(.styledotitalicdottcitms2) { text-combine-upright:digits 2 }
-::cue(.styledotitalicdottcitms2) { text-combine-upright:2 }
+::cue(.styledotitalicdottcitms2) { text-combine-upright:all }
 
 1
 00:00:08.634 --> 00:00:11.011 align:start line:0%,start position:0% vertical:rl
