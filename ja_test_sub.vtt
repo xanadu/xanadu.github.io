@@ -5,8 +5,8 @@ NOTE Profile: webvtt-lssdh-ios13
 NOTE Date: 1970/01/01 00:00:00
 
 NOTE SegmentIndex
-NOTE Segment=1105.855 316@274 1
-NOTE Segment=66.737 1894@590 6
+NOTE Segment=1105.855 316@271 1
+NOTE Segment=66.737 1894@587 6
 NOTE /SegmentIndex
 
                                                                                  
@@ -43,3 +43,4 @@ NOTE /SegmentIndex
 00:19:27.506 --> 00:19:32.591 vertical:rl position:10.00%,start align:start size:80.00% line:10.00%,start 
 <c.japanese><c.bg_transparent>あの子は<c.text_combine>12</c.text_combine>から
 隠れてたから</c.bg_transparent></c.japanese>
+
