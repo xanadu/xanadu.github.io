@@ -1,6 +1,0 @@
-WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
-
-00:00:01.000 --> 00:00:13.000 vertical:rl position:10.00%,start align:start size:80.00% line:10.00%,start Top left
-<c.bg_transparent>あの子は<c.text_combine>12</c.text_combine>から
-隠れてたから</c.bg_transparent>
