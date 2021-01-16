@@ -2,33 +2,386 @@
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
-NOTE Date: 2020/10/07 03:12:18
+NOTE Date: 2020/11/14 22:03:54
 
 NOTE SegmentIndex
-NOTE Segment=593.968 1200@348 4
+NOTE Segment=357.524 884@998 6
+NOTE Segment=286.161 296@1882 2
+NOTE Segment=434.976 483@2178 3
+NOTE Segment=566.775 1583@2661 10
+NOTE Segment=545.086 5681@4244 34
+NOTE Segment=155.364 149@9925 1
+NOTE Segment=1036.536 146@10074 1
+NOTE Segment=458.124 1512@10220 10
+NOTE Segment=592.425 444@11732 3
+NOTE Segment=452.953 1065@12176 7
+NOTE Segment=558.683 782@13241 5
+NOTE Segment=541.833 572@14023 3
 NOTE /SegmentIndex
 
-                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 
 
 1
-00:00:01.000 --> 00:00:05.000 vertical:rl position:10.00%,start align:start size:80.00% line:90.00%,end 
-<c.japanese><c.bg_transparent>米国“エネルギー”省</c.bg_transparent></c.japanese>
-<c.japanese><c.bg_transparent>ホーキンス“国立”研究所</c.bg_transparent></c.japanese>
+00:00:18.018 --> 00:00:21.730 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>NETFLIX プレゼンツ</c.japanese>
 
 2
-00:00:06.000 --> 00:00:10.000 vertical:rl position:20.00%,start align:start size:80.00% line:90.00%,end 
-<c.japanese><c.bg_transparent>米国｢エネルギー｣省</c.bg_transparent></c.japanese>
-<c.japanese><c.bg_transparent>ホーキンス｢国立｣研究所</c.bg_transparent></c.japanese>
+00:00:23.314 --> 00:00:27.527 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>NETFLIX オリジナル映画</c.japanese>
 
 3
-00:00:11.000 --> 00:00:15.000 vertical:rl position:30.00%,start align:start size:80.00% line:90.00%,end 
-<c.japanese><c.bg_transparent>米国“エネルギー”省</c.bg_transparent></c.japanese>
-<c.japanese><c.bg_transparent>ホーキンス“国立”研究所</c.bg_transparent></c.japanese>
+00:01:06.608 --> 00:01:07.525 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“小テスト”</c.japanese>
 
 4
-00:00:16.000 --> 00:00:20.000 vertical:rl position:40.00%,start align:start size:80.00% line:90.00%,end 
-<c.japanese><c.bg_transparent>米国｢エネルギー｣省</c.bg_transparent></c.japanese>
-<c.japanese><c.bg_transparent>ホーキンス｢国立｣研究所</c.bg_transparent></c.japanese>
+00:02:14.717 --> 00:02:19.139 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>Death Note／デスノート</c.japanese>
 
+5
+00:02:46.040 --> 00:02:47.959 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“デスノート”</c.japanese>
+
+6
+00:05:27.368 --> 00:05:30.204 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“居残り教室”</c.japanese>
+
+7
+00:05:57.523 --> 00:05:59.609 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“デスノート”</c.japanese>
+
+8
+00:10:27.835 --> 00:10:32.089 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ケニー･ドイル”</c.japanese>
+
+9
+00:10:43.684 --> 00:10:47.772 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“頭部切断”</c.japanese>
+
+10
+00:17:29.673 --> 00:17:32.134 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“今回の被害者は警官の妻”</c.japanese>
+
+11
+00:17:37.306 --> 00:17:40.267 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“スコマルに無罪評決
+陪審員を買収”</c.japanese>
+
+12
+00:17:58.660 --> 00:18:00.329 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“アントニー･スコマル”</c.japanese>
+
+13
+00:23:23.318 --> 00:23:24.194 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“犯罪　中継”</c.japanese>
+
+14
+00:23:26.530 --> 00:23:28.907 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“シアトルでの人質事件
+生中継”</c.japanese>
+
+15
+00:23:32.494 --> 00:23:34.412 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ブローディが道路に…”</c.japanese>
+
+16
+00:23:42.003 --> 00:23:44.423 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“死亡”</c.japanese>
+
+17
+00:23:54.641 --> 00:23:59.813 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ブローディによる
+人質事件”</c.japanese>
+
+18
+00:24:38.268 --> 00:24:41.021 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ブローディが道路に出る”</c.japanese>
+
+19
+00:24:42.397 --> 00:24:45.525 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“軍隊式の
+敬礼をしたまま―”</c.japanese>
+
+20
+00:24:45.609 --> 00:24:48.778 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“車にはねられて死亡”</c.japanese>
+
+21
+00:27:16.259 --> 00:27:17.344 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“国際指名手配”</c.japanese>
+
+22
+00:27:25.435 --> 00:27:26.519 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“感電死”</c.japanese>
+
+23
+00:28:27.539 --> 00:28:29.165 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラ：日本では
+「<ruby>殺し屋<c.ruby_after><rt>キラー</rt></c.ruby_after></ruby>」に由来”</c.japanese>
+
+24
+00:28:45.682 --> 00:28:48.393 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈“悪人に裁きを”
+とありますが〉</c.japanese>
+
+25
+00:28:48.560 --> 00:28:51.479 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈誰も日本語は使えません〉</c.japanese>
+
+26
+00:28:51.646 --> 00:28:53.815 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“アブドゥル＝アドル･
+アスワド”</c.japanese>
+
+27
+00:28:54.107 --> 00:28:56.776 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈所在不明だった
+テロ組織のリーダーが〉</c.japanese>
+
+28
+00:28:56.776 --> 00:28:57.777 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈所在不明だった
+テロ組織のリーダーが〉</c.japanese>
+
+29
+00:28:56.776 --> 00:28:57.777 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>手〝投げ弾〞を食べる</c.japanese>
+
+30
+00:28:57.777 --> 00:28:58.528 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈所在不明だった
+テロ組織のリーダーが〉</c.japanese>
+
+31
+00:28:58.611 --> 00:29:00.739 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈仲間の前で自爆〉</c.japanese>
+
+32
+00:29:00.822 --> 00:29:04.284 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈キラの仕業だと
+思われます〉</c.japanese>
+
+33
+00:29:04.743 --> 00:29:06.161 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>シア｢トル｣警察</c.japanese>
+
+34
+00:29:06.286 --> 00:29:06.327 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>事件〝報告〞書</c.japanese>
+
+35
+00:29:06.327 --> 00:29:07.287 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>事件｢報告｣書〞</c.japanese>
+
+36
+00:29:06.327 --> 00:29:07.287 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈指名手配中の
+麻薬組織メンバー５人が〉</c.japanese>
+
+37
+00:29:07.287 --> 00:29:09.497 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈指名手配中の
+麻薬組織メンバー５人が〉</c.japanese>
+
+38
+00:29:09.622 --> 00:29:12.000 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈列車に飛び込みました〉</c.japanese>
+
+39
+00:29:12.167 --> 00:29:17.005 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>〈今回もキラによる
+犯行だと考えられます〉</c.japanese>
+
+40
+00:29:26.222 --> 00:29:30.977 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラは救世主”</c.japanese>
+
+41
+00:29:32.854 --> 00:29:35.523 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラ捜査に抗議の声”</c.japanese>
+
+42
+00:29:36.858 --> 00:29:37.650 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“神が実在？”</c.japanese>
+
+43
+00:29:37.776 --> 00:29:38.443 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラ賛美！”</c.japanese>
+
+44
+00:29:38.568 --> 00:29:39.736 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“政府も対策を協議”</c.japanese>
+
+45
+00:29:43.156 --> 00:29:45.784 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラ”</c.japanese>
+
+46
+00:30:14.062 --> 00:30:17.440 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラによる裁き”</c.japanese>
+
+47
+00:32:03.212 --> 00:32:08.343 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>森と闇と夜から抜け出して</c.japanese>
+
+48
+00:32:08.760 --> 00:32:13.264 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>太陽の下 光の中に
+　　　足を踏み出そう</c.japanese>
+
+49
+00:32:13.973 --> 00:32:18.603 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>あの場所へと
+　　まっすぐ進んでいこう</c.japanese>
+
+50
+00:32:18.770 --> 00:32:24.484 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>この地上と空の下で
+　　最も輝かしい あの場所へ</c.japanese>
+
+51
+00:32:25.151 --> 00:32:30.114 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>息を止めて 強い心と
+　　　　　　希望を持ち</c.japanese>
+
+52
+00:32:30.448 --> 00:32:34.327 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>門へと進み
+　　開けさせなさい</c.japanese>
+
+53
+00:33:43.062 --> 00:33:44.981 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“特別捜査本部”</c.japanese>
+
+54
+00:33:50.570 --> 00:33:53.489 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“クソ食らえ！”</c.japanese>
+
+55
+00:36:16.132 --> 00:36:19.302 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ダンスパーティー”</c.japanese>
+
+56
+00:36:30.521 --> 00:36:31.772 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“悪人に裁きを”</c.japanese>
+
+57
+00:39:05.885 --> 00:39:07.053 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“事件報告書”</c.japanese>
+
+58
+00:56:22.420 --> 00:56:24.923 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラ捜査本部 記者会見”</c.japanese>
+
+59
+01:02:55.438 --> 01:02:57.106 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>最も輝かしい あの場所へ</c.japanese>
+
+60
+01:02:57.106 --> 01:02:58.691 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>最も輝かしい あの場所へ</c.japanese>
+
+61
+01:02:57.106 --> 01:02:58.691 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>〝モントーク〞</c.japanese>
+
+62
+01:02:59.108 --> 01:03:01.903 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>息を止めて 希望と</c.japanese>
+
+63
+01:03:02.570 --> 01:03:04.655 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>強い心を持ち</c.japanese>
+
+64
+01:03:05.406 --> 01:03:07.116 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>門へと進み</c.japanese>
+
+65
+01:03:08.159 --> 01:03:10.036 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>門へと進み</c.japanese>
+
+66
+01:03:11.245 --> 01:03:12.705 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>開けさせなさい</c.japanese>
+
+67
+01:03:45.655 --> 01:03:47.615 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ダンスパーティー”</c.japanese>
+
+68
+01:04:00.545 --> 01:04:01.838 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“私が持ってる”</c.japanese>
+
+69
+01:08:36.362 --> 01:08:39.907 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“普通の人が怖い”</c.japanese>
+
+70
+01:11:39.336 --> 01:11:41.088 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“微積分学”</c.japanese>
+
+71
+01:13:52.970 --> 01:13:54.888 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ライト･ターナー
+真夜中に心停止”</c.japanese>
+
+72
+01:14:16.285 --> 01:14:17.536 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“悪人に裁きを”</c.japanese>
+
+73
+01:14:48.275 --> 01:14:49.318 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ミア”</c.japanese>
+
+74
+01:14:49.443 --> 01:14:50.444 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“追っ手が来る”</c.japanese>
+
+75
+01:14:57.868 --> 01:14:59.036 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ライト･ターナー”</c.japanese>
+
+76
+01:14:59.161 --> 01:15:00.454 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“今すぐ観覧車へ”</c.japanese>
+
+77
+01:15:54.258 --> 01:15:56.134 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“安全運転を”</c.japanese>
+
+78
+01:21:25.922 --> 01:21:28.717 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ミア･サットン”</c.japanese>
+
+79
+01:24:59.052 --> 01:25:02.430 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“ライト･ターナー
+真夜中に心停止”</c.japanese>
+
+80
+01:26:11.416 --> 01:26:18.006 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“キラは救世主”</c.japanese>
+
+81
+01:28:53.202 --> 01:28:56.956 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“今回の被害者は警官の妻”</c.japanese>
+
+82
+01:29:49.342 --> 01:29:50.218 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“催眠剤”</c.japanese>
+
+83
+01:30:44.605 --> 01:30:46.399 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>“微積分学”</c.japanese>
+
+84
+01:32:53.317 --> 01:32:55.778 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>原作：「デスノート」</c.japanese>
+<c.japanese>大場 つぐみ　小畑 健</c.japanese>
+<c.japanese>「週刊 少年ジャンプ」連載</c.japanese>
+
+85
+01:39:43.435 --> 01:39:46.438 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>日本語字幕　田口 絵里</c.japanese>
 
