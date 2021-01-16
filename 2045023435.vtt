@@ -5,7 +5,7 @@ NOTE Profile: webvtt-lssdh-ios13
 NOTE Date: 2020/10/07 03:12:18
 
 NOTE SegmentIndex
-NOTE Segment=593.968 601@347 2
+NOTE Segment=593.968 1200@348 4
 NOTE /SegmentIndex
 
                                                                                                                                                                                           
@@ -17,7 +17,17 @@ NOTE /SegmentIndex
 <c.japanese><c.bg_transparent>ホーキンス“国立”研究所</c.bg_transparent></c.japanese>
 
 2
-00:00:06.000 --> 00:00:10.000 vertical:rl position:10.00%,start align:start size:80.00% line:90.00%,end 
+00:00:06.000 --> 00:00:10.000 vertical:rl position:20.00%,start align:start size:80.00% line:90.00%,end 
+<c.japanese><c.bg_transparent>米国｢エネルギー｣省</c.bg_transparent></c.japanese>
+<c.japanese><c.bg_transparent>ホーキンス｢国立｣研究所</c.bg_transparent></c.japanese>
+
+3
+00:00:11.000 --> 00:00:15.000 vertical:rl position:30.00%,start align:start size:80.00% line:90.00%,end 
+<c.japanese><c.bg_transparent>米国“エネルギー”省</c.bg_transparent></c.japanese>
+<c.japanese><c.bg_transparent>ホーキンス“国立”研究所</c.bg_transparent></c.japanese>
+
+4
+00:00:16.000 --> 00:00:20.000 vertical:rl position:40.00%,start align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_transparent>米国｢エネルギー｣省</c.bg_transparent></c.japanese>
 <c.japanese><c.bg_transparent>ホーキンス｢国立｣研究所</c.bg_transparent></c.japanese>
 
