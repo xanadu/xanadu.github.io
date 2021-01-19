@@ -298,12 +298,14 @@ NOTE /SegmentIndex
 <c.japanese>助けてやれ</c.japanese>
 
 65
-00:10:27.684 --> 00:10:29.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>日本"日本"日本U+0022</c.japanese>
+00:10:27.684 --> 00:10:29.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end  
+<c.japanese>日本"日本"日本
+U+0022</c.japanese>
 
 66
 00:10:29.684 --> 00:10:31.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end  
-<c.japanese>日本〝日本〞日本U+301DU+301E</c.japanese>
+<c.japanese>日本〝日本〞日本
+U+301DU+301E</c.japanese>
 
 67
 00:10:31.684 --> 00:10:33.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
@@ -312,15 +314,18 @@ U+201CU+201D</c.japanese>
 
 68
 00:10:33.684 --> 00:10:35.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>日本"日本"日本U+0022</c.japanese>
+<c.japanese>日本"日本"日本
+U+0022</c.japanese>
 
 69
 00:10:35.684 --> 00:10:37.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>日本<c.text_combine>"</c.text_combine>日本<c.text_combine>"</c.text_combine>日本U+0022縦中横</c.japanese>
+<c.japanese>日本<c.text_combine>"</c.text_combine>日本<c.text_combine>"</c.text_combine>日本
+U+0022縦中横</c.japanese>
 
 70
 00:10:37.684 --> 00:10:39.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>日本〝日本〞日本U+301DU+301E</c.japanese>
+<c.japanese>日本〝日本〞日本
+U+301DU+301E</c.japanese>
 
 71
 00:10:39.684 --> 00:10:41.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
@@ -333,24 +338,25 @@ U+301D+301E縦中横</c.japanese>
 U+201CU+201D</c.japanese>
 
 73
-00:10:43.684 --> 00:10:45.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>日本<c.text_combine>“</c.text_combine>日本<c.text_combine>”</c.text_combine>日本
-U+201CU+201D縦中横</c.japanese>
+00:10:43.684 --> 00:10:45.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>日本｢日本｣日本
+U+FF62U+FF63</c.japanese>
 
 74
-00:10:45.061 --> 00:10:47.521 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>〝頭部切断〞</c.japanese>
+00:10:45.684 --> 00:10:47.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>日本｢日本｣日本
+U+FF62U+FF63</c.japanese>
 
 75
-00:10:45.061 --> 00:10:47.521 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+00:10:48.061 --> 00:10:48.521 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
 <c.japanese>初心者にしては上出来だ</c.japanese>
 
 76
-00:10:47.521 --> 00:10:47.772 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+00:10:48.521 --> 00:10:48.772 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
 <c.japanese>〝頭部切断〞</c.japanese>
 
 77
-00:10:48.105 --> 00:10:49.023 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+00:10:49.105 --> 00:10:49.023 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
 <c.japanese>では</c.japanese>
 
 78
