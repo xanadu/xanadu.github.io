@@ -298,41 +298,44 @@ NOTE /SegmentIndex
 <c.japanese>助けてやれ</c.japanese>
 
 65
-00:10:06.480 --> 00:10:07.815 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>ペンがない</c.japanese>
+00:10:27.684 --> 00:10:29.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>日本"日本"日本U+0022</c.japanese>
 
 66
-00:10:11.110 --> 00:10:12.778 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>そこにあるのか</c.japanese>
+00:10:29.684 --> 00:10:31.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end  
+<c.japanese>日本〝日本〞日本U+301DU+301E</c.japanese>
 
 67
-00:10:27.835 --> 00:10:28.294 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>〝ケニー･ドイル〞</c.japanese>
+00:10:31.684 --> 00:10:33.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+<c.japanese>日本“日本”日本
+U+201CU+201D</c.japanese>
 
 68
-00:10:28.294 --> 00:10:32.089 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>〝ケニー･ドイル〞</c.japanese>
+00:10:33.684 --> 00:10:35.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>日本"日本"日本U+0022</c.japanese>
 
 69
-00:10:28.294 --> 00:10:32.089 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>その調子だ
-やるなら本格的にやろう</c.japanese>
+00:10:35.684 --> 00:10:37.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>日本<c.text_combine>"</c.text_combine>日本<c.text_combine>"</c.text_combine>日本U+0022縦中横</c.japanese>
 
 70
-00:10:32.798 --> 00:10:35.676 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>名前以外も書けるんだぞ</c.japanese>
+00:10:37.684 --> 00:10:39.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>日本〝日本〞日本U+301DU+301E</c.japanese>
 
 71
-00:10:35.801 --> 00:10:37.720 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>他に何を？</c.japanese>
+00:10:39.684 --> 00:10:41.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>日本<c.text_combine>〝</c.text_combine>日本<c.text_combine>〞</c.text_combine>日本
+U+301D+301E縦中横</c.japanese>
 
 72
-00:10:37.970 --> 00:10:39.221 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>“死因”だよ</c.japanese>
+00:10:41.684 --> 00:10:43.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+<c.japanese>日本“日本”日本
+U+201CU+201D</c.japanese>
 
 73
 00:10:43.684 --> 00:10:45.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>頭“<c.text_combine>“</c.text_combine>“部切”<c.text_combine>”</c.text_combine>”断</c.japanese>
+<c.japanese>日本<c.text_combine>“</c.text_combine>日本<c.text_combine>”</c.text_combine>日本
+U+201CU+201D縦中横</c.japanese>
 
 74
 00:10:45.061 --> 00:10:47.521 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
@@ -4444,5 +4447,5 @@ NOTE /SegmentIndex
 
 1031
 01:39:43.435 --> 01:39:46.438 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>日本語字幕　田口 絵里</c.japanese> 
+<c.japanese>日本語字幕　田口 絵里</c.japanese>
 
