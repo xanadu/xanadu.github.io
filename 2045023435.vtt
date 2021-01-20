@@ -338,27 +338,19 @@ U+301D+301E縦中横</c.japanese>
 U+201CU+201D</c.japanese>
 
 73
-00:10:41.684 --> 00:10:43.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+00:10:43.684 --> 00:10:45.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
 <c.japanese>日本<c.text_combine>“</c.text_combine>日本<c.text_combine>”</c.text_combine>日本
 U+201C+201D縦中横</c.japanese>
 
 74
-00:10:43.684 --> 00:10:45.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
+00:10:45.684 --> 00:10:47.061 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
 <c.japanese>日本｢日本｣日本
 U+FF62U+FF63</c.japanese>
 
 75
-00:10:45.684 --> 00:10:47.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
+00:10:47.684 --> 00:10:49.061 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
 <c.japanese>日本｢日本｣日本
 U+FF62U+FF63</c.japanese>
-
-76
-00:10:48.521 --> 00:10:48.772 vertical:rl position:10.00%,start align:start size:80.00% line:74.81%,start 
-<c.japanese>〝頭部切断〞</c.japanese>
-
-77
-00:10:49.105 --> 00:10:49.023 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
-<c.japanese>では</c.japanese>
 
 78
 00:10:50.650 --> 00:10:51.609 position:50.00%,middle align:middle size:80.00% line:93.00%,end 
