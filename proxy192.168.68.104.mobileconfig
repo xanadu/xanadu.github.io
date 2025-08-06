@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.B5EB9B10-E0EA-44A9-A241-731387E14342</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>B5EB9B10-E0EA-44A9-A241-731387E14342</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<false/>
+			<key>ProxyServer</key>
+			<string>192.168.68.104</string>
+			<key>ProxyServerPort</key>
+			<integer>8888</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Untitled</string>
+	<key>PayloadIdentifier</key>
+	<string>Allans-MacBook-Pro.45F43CD6-7460-42D4-B880-030C0A479696</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D9932EE6-B341-43A4-A6EE-B6FBDD36875F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
